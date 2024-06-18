@@ -1,0 +1,10 @@
+build/
+classes_gen/
+source_gen/
+source_gen.caches/
+
+build.xml
+test.xml
+
+# General
+.DS_Store
